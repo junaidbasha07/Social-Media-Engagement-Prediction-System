@@ -1,0 +1,8 @@
+Flask
+joblib
+numpy
+pandas
+scikit-learn
+torch
+transformers
+openpyxl
